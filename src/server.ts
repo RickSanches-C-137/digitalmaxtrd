@@ -1,6 +1,7 @@
 require('dotenv').config();
-import app from "./app";
-import mongoose from 'mongoose';
+const app = require('./app');
+
+const mongoose = require('mongoose');
 
 async function bootstrap() {
     try {
