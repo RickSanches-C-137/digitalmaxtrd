@@ -8,7 +8,7 @@
       "ESNext",
     ],
     "resolveJsonModule": true,
-    "outDir": "dist",
+    "outDir": "public",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": false,
